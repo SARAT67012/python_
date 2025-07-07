@@ -47,11 +47,11 @@ student = {
 # }
 # print(s) 
 
-print(student["che"])
+# print(student["che"])
 # print(student.keys())
 # print(list(student.keys()))
 # print(len(student))
-# print(list( student.values()))
+print(list( student.values()))
 # pairs = (list(student.items()))
 # print(pairs[1])
 # print(student['name2']) #error
